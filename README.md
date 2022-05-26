@@ -13,8 +13,6 @@
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="right" alt="Ricardo-pic" height="150" style="border-radius:50px;" src="https://picrew.me/image_maker/11534/complete?cd=xztoroyOLP">
 </div>
   
   ##
@@ -29,6 +27,5 @@
    <a href="https://wa.me/5514997237199" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ricardolima29/ricardolima29/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
   
