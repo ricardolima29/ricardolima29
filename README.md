@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Ol%C3%A1+dev!+Eu+sou+o+Ricardo%2C+e+esse+%C3%A9+meu+GitHub%22+))](https://git.io/typing-svg)
+
 - 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
 - 🌱 Estou estudando Desenvolvimento Web Full Stack
 - 🎵 Eu toco Violao, Guitarra, Baixo e Contrabaixo
