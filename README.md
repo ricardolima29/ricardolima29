@@ -36,4 +36,4 @@
   # ⚽ Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/952574663916154960)
 
-[![Spotify Status](https://spotify-readme-badge.vercel.app/api/now-playing)](https://github.com/akellbl4/spotify-badge)
+[![Spotify Status](https://spotify-readme-badge.vercel.app/api/now-playing)](https://github.com/ricardolima29/spotify-badge)
