@@ -30,7 +30,7 @@
  
   ![Snake animation](https://github.com/ricardolima29/ricardolima29/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
+  ![visits](https://komarev.com/ghpvc/?username=ricardolima29)
   # ⚽ Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/952574663916154960)
 
