@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Ol%C3%A1+dev!+Sejam+Bem+Vindos+ao+meu+GitHub%22+))](https://git.io/typing-svg)
+[![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
 
 - 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
 - 🌱 Estou estudando Desenvolvimento Web Full Stack
@@ -35,7 +36,4 @@
 </div>
 
 ![visits](https://komarev.com/ghpvc/?username=ricardolima29)
-
-[![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
-
 
