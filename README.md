@@ -21,7 +21,7 @@
 </div>
   
   ##
-  
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/664537045372239915)](https://discord.com/users/664537045372239915)
   <div> 
   <a href="https://www.youtube.com/channel/UCEY-aeGscyo2ugrRQQezZlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ricardo.limaa29/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,6 +35,5 @@
 </div>
   # ⚽ Activity
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/664537045372239915)](https://discord.com/users/664537045372239915)
 
 [![Spotify Status](https://spotify-readme-badge.vercel.app/api/now-playing)](https://github.com/ricardolima29/spotify-badge)
