@@ -36,6 +36,7 @@
 
 ![visits](https://komarev.com/ghpvc/?username=ricardolima29)
 # ⚽ Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/952574663916154960)
 
-[![Spotify](https://github-profile-spot.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/RicardoRodrigues)
+[![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
+
+
