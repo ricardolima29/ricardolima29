@@ -34,6 +34,6 @@
   ![Snake animation](https://github.com/ricardolima29/ricardolima29/blob/output/github-contribution-grid-snake.svg)
 </div>
   # ⚽ Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/952574663916154960)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/664537045372239915)](https://discord.com/users/664537045372239915)
 
 [![Spotify Status](https://spotify-readme-badge.vercel.app/api/now-playing)](https://github.com/ricardolima29/spotify-badge)
