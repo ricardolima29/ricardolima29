@@ -5,7 +5,7 @@
 - 🎵 Eu toco Violao, Guitarra, Baixo e Contrabaixo
 - 📘 Ultimo Semestre da Fatec - Analise e Desenvolvimento de Sistemas
 
-![visits](https://komarev.com/ghpvc/?username=ricardolima29)
+
 
 <div align="center">
   <a href="https://github.com/ricardolima29">
@@ -33,8 +33,9 @@
  
   ![Snake animation](https://github.com/ricardolima29/ricardolima29/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![visits](https://komarev.com/ghpvc/?username=ricardolima29)
 # ⚽ Activity
-  </a>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/664537045372239915)](https://discord.com/users/664537045372239915)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/952574663916154960)
 
 [![Spotify Status](https://spotify-readme-badge.vercel.app/api/now-playing)](https://github.com/akellbl4/spotify-badge)
