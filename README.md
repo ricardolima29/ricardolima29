@@ -38,4 +38,4 @@
 # ⚽ Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/952574663916154960)
 
-[![Spotify Status](https://ricardolima292022-ii2n6vwi7-ricardolima29.vercel.app/api/auth/now-playing)](https://github.com/akellbl4/spotify-badge)
+[![Spotify](https://github-profile-spot.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ricardo Rodrigues)
