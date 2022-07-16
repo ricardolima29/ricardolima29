@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Ol%C3%A1+dev!+Sejam+Bem+Vindos+ao+meu+GitHub%22+))](https://git.io/typing-svg)
-[![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
+
 
 - 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
 - 🌱 Estou estudando Desenvolvimento Web Full Stack
@@ -22,8 +22,7 @@
 </div>
   
   ##
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/664537045372239915)](https://discord.com/users/664537045372239915)
-  <div> 
+ [![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
   <a href="https://www.youtube.com/channel/UCEY-aeGscyo2ugrRQQezZlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ricardo.limaa29/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ricardolimalima" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
