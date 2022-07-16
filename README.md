@@ -35,7 +35,6 @@
 </div>
 
 ![visits](https://komarev.com/ghpvc/?username=ricardolima29)
-# ⚽ Activity
 
 [![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
 
