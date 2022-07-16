@@ -19,10 +19,11 @@
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ricardo-Go" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+  [![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
 </div>
   
   ##
- [![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
+ 
   <a href="https://www.youtube.com/channel/UCEY-aeGscyo2ugrRQQezZlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ricardo.limaa29/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ricardolimalima" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
