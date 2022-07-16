@@ -34,7 +34,7 @@
  
   ![Snake animation](https://github.com/ricardolima29/ricardolima29/blob/output/github-contribution-grid-snake.svg)
 </div>
-[![Spotify](https://github-profile-spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
+
 
 [![Spotify](https://Github-Profile-Spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
 
