@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
-- 🌱 Estou estudando Desenvolvimento Web Full Stack
+- 🌱 Estou estudando Desenvolvimento Web Full Stack, Python e Go
 - 🎵 Eu toco Violao, Guitarra, Baixo e Contrabaixo
 - 📘 Ultimo Semestre da Fatec - Analise e Desenvolvimento de Sistemas
 
