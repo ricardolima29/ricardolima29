@@ -36,7 +36,8 @@
 </div>
 
 
-[![Spotify](https://Github-Profile-Spot.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
+[![Spotify](https://novatorem-ricardolima29.vercel.app/api/spotify)](https://open.spotify.com/user/RicardoRodrigues)
+[![Spotify](https://novatorem-ricardolima29.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/RicardoRodrigues)
 
 ![visits](https://komarev.com/ghpvc/?username=ricardolima29)
 
