@@ -15,7 +15,7 @@
   </td>
   <td width="50%">
 
-&nbsp;<p align="center">This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
+<br><br>
 ![visits](https://komarev.com/ghpvc/?username=ricardolima29)
 
   </p>
