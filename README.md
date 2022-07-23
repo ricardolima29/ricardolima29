@@ -16,7 +16,7 @@
   <td width="50%">
 
 <br><br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/664537045372239915)](https://discord.com/users/664537045372239915)
+[![Discord Presence](https://barbarbar338-ricardolima29.vercel.app/api/664537045372239915)](https://discord.com/users/664537045372239915)
 ![visits](https://komarev.com/ghpvc/?username=ricardolima29)
 
   </p>
