@@ -6,23 +6,6 @@
 - 🎵 Eu toco Violao, Guitarra, Baixo e Contrabaixo
 - 📘 Ultimo Semestre da Fatec - Analise e Desenvolvimento de Sistemas
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
-&nbsp; <br> [![Spotify](https://novatorem-ricardolima29.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/RicardoRodrigues)
-
-  </td>
-  <td width="50%">
-
-<br><br>
-[![Discord Presence](https://barbarbar338-ricardolima29.vercel.app/api/664537045372239915)](https://discord.com/users/664537045372239915)
-![visits](https://komarev.com/ghpvc/?username=ricardolima29)
-
-  </p>
-  </td>
-</table>
-
 
 <div align="center">
   <a href="https://github.com/ricardolima29">
