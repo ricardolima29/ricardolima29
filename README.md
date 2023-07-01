@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Ol%C3%A1+dev!+Sejam+Bem+Vindos+ao+meu+Linkedln%22+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=white&width=650&height=30&lines=print(+%22Ol%C3%A1+dev!+Sejam+Bem+Vindos+ao+meu+GitHub%22+))](https://git.io/typing-svg)
 
 
 - 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
