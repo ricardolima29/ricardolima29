@@ -2,9 +2,14 @@
 
 
 - 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
-- 🌱 Estou estudando Desenvolvimento Web Full Stack, Python e Go
-- 🎵 Eu toco Violao, Guitarra, Baixo e Contrabaixo
-- 📘 Ultimo Semestre da Fatec - Analise e Desenvolvimento de Sistemas
+- 📘 Fatec - Analise e Desenvolvimento de Sistemas
+- 💻 Desenvolvo sistemas para otimizar as atividades no meu setor de trabalho.
+  
+Tenho facilidade em aprender e estou em constante busca por conhecimento.
+
+Python | React | CSS | JavaScript
+De uma conferida nos meus projetos em meu Linkedin.
+https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/
 
 
 <div align="center">
@@ -20,7 +25,7 @@
   <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  
  
   <a href="https://www.youtube.com/channel/UCEY-aeGscyo2ugrRQQezZlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ricardo.limaa29/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
