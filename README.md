@@ -4,11 +4,13 @@
 - 🔭 Atualmente eu estou trabalhando como Assistente de TI na empresa JBS
 - 📘 Fatec - Analise e Desenvolvimento de Sistemas
 - 💻 Desenvolvo sistemas para otimizar as atividades no meu setor de trabalho.
-  
+  <br>
 Tenho facilidade em aprender e estou em constante busca por conhecimento.
-
+<br>
 Python | React | CSS | JavaScript
+<br>
 De uma conferida nos meus projetos em meu Linkedin.
+<br>
 https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/
 
 
