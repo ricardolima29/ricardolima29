@@ -7,10 +7,6 @@
   <br>
     Tenho facilidade em aprender e estou em constante busca por conhecimento.
 <br>
-De uma conferida nos meus projetos em meu Linkedin.
-<br>
-https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/
-
 
 <div align="center">
   <a href="https://github.com/ricardolima29">
@@ -38,6 +34,9 @@ https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/
 
    
   ![Snake animation](https://github.com/ricardolima29/ricardolima29/blob/output/github-contribution-grid-snake.svg)
+De uma conferida nos meus projetos em meu Linkedin.
+<br>
+https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/
 
 </div>
 
